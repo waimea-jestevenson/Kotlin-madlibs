@@ -14,7 +14,7 @@ fun main() {
     println("Ok, here is your story.")
     println("$name was walking down the road when $heOrShe bumped into $anotherName who was $verbing a $item.")
     println("'Woah, dude! Those are some awesome skills!', said $name as $heOrShe $verbed.")
-    println("$anotherName then rode away on a $animal.")
+    println("$anotherName then flew away on a $animal.")
 
 
 }
